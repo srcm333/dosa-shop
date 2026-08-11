@@ -19,3 +19,4 @@
 * Dosa Butter
 * Butter
 * Tomato past
+* Ghee
