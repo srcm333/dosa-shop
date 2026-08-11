@@ -9,6 +9,8 @@
 * Oil
 * Karam
 
+
+## Egg Dosa
 * Dosa Butter
-* oil
-* 1 Egg
+* Oil
+* 2 Eggs
