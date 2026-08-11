@@ -15,8 +15,20 @@
 * Oil
 * 2 Eggs
 
+
 ## Masala Dosa
 * Dosa Batter
 * oil
 * aloo masala
 * Butter
+
+# Butter Dosa
+* Dosa Butter
+* Butter
+
+# Neyyi Karam
+* Dosa Batter'
+* Ghee
+* yerrakaram
+* Karam
+
