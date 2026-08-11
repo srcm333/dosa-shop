@@ -14,3 +14,6 @@
 * Dosa Butter
 * Oil
 * 2 Eggs
+
+## Masala Dosa
+* Dosa Batter
