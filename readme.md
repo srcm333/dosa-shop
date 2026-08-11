@@ -20,7 +20,10 @@
 * Butter
 
 # Neyyi Karam
-* Dosa Batter'
+* Dosa Batter
 * Ghee
 * yerrakaram
 * Karam
+
+# Egg Karam
+* Dosa batter
